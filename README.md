@@ -130,6 +130,7 @@ Maps for all forever! --From the Maptime website
 Anyone can start a chapter! See a list of current Maptime chapters [here](http://maptime.io/chapters/). We'd love for Peace Corps Volunteers and counterparts to experiment with starting a Maptime chapter at their site or in their nearest city. For more information about starting a chapter, email hello@maptime.io. And then let Courtney Clark know at cclark2@peacecorps.gov, because you're awesome and she'll want to brag about you. 
 
 ##Malaria Resources
+[Open Source Malaria ] (http://opensourcemalaria.org/) 
 
 [OSM for Malaria Eradication in Botswana Case Study.](https://drive.google.com/file/d/0BxqYHzBUSr1NRzlKNk01ekdONE0/view?usp=sharing) By Theresa Govert and Mike Banfield, Peace Corps Botswana. February 2015. 
 
