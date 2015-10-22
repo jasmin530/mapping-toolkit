@@ -129,6 +129,12 @@ Maps for all forever! --From the Maptime website
 
 Anyone can start a chapter! See a list of current Maptime chapters [here](http://maptime.io/chapters/). We'd love for Peace Corps Volunteers and counterparts to experiment with starting a Maptime chapter at their site or in their nearest city. For more information about starting a chapter, email hello@maptime.io. And then let Courtney Clark know at cclark2@peacecorps.gov, because you're awesome and she'll want to brag about you. 
 
+##Malaria Resources
+
+[OSM for Malaria Eradication in Botswana Case Study.](https://drive.google.com/file/d/0BxqYHzBUSr1NRzlKNk01ekdONE0/view?usp=sharing) By Theresa Govert and Mike Banfield, Peace Corps Botswana. February 2015. 
+
+[Malaria Map](http://www.map.ox.ac.uk/explorer/)
+
 ##GIS (Geographic Information System) and Mapping Tools Overviews
 
 [What your favorite map projection says about you, a la XKCD](http://xkcd.com/977/)
@@ -213,8 +219,6 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 [Why Mapping is Important](http://www.wired.com/wiredscience/2013/11/spacial-collective-map-kibera/)
 
 [USAID Development Data Available on ArcGIS Online](http://www.esri.com/news/releases/12-3qtr/usaid-development-data-available-on-arcgis-online.html)
-
-[OSM for Malaria Eradication in Botswana Case Study.](https://drive.google.com/file/d/0BxqYHzBUSr1NRzlKNk01ekdONE0/view?usp=sharing) By Theresa Govert and Mike Banfield, Peace Corps Botswana. February 2015. 
 
 ["'Re mmogo!' The White House, Peace Corps and You -- Together We Can Map Botswana".](http://passport.peacecorps.gov/2015/05/26/re-mmogo-the-white-house-peace-corps-and-you-together-we-can-map-botswana/) By Theresa Govert, Mike Banfield and Christy Nekvinda, Peace Corps Botswana. May 26, 2015, Peace Corps Passport.
 
@@ -346,7 +350,7 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 [Mapping Latinos in the US Example](http://developmentseed.org/blog/2011/oct/10/mapping-latinos-united-states-npr/)
 
-[Malaria Map](http://www.map.ox.ac.uk/explorer/)
+
 
 [World Bank Data Manager](http://www.arcgis.com/home/item.html?id=9de2efabaaa746bcade7aecd4cc6d8cc)
 
