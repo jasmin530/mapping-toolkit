@@ -115,6 +115,18 @@ To involve your post in any of these activities, propose a different activity, o
 
 [Mapillary] (http://www.mapillary.com/map) is a service for crowdsourcing map photos. 
 
+##Malaria Resources - Geospatial Resources Specific to Malaria 
+
+[Open Source Malaria ] (http://opensourcemalaria.org/) 
+
+[Malaria Atlas Project] (http://www.map.ox.ac.uk/explorer/) - Malaria map and data explorer
+
+[OSM for Malaria Eradication in Botswana Case Study.](https://drive.google.com/file/d/0BxqYHzBUSr1NRzlKNk01ekdONE0/view?usp=sharing) By Theresa Govert and Mike Banfield, Peace Corps Botswana. February 2015. 
+
+["Geocoding Structures for Indoor Residual Spray Mapping in Zambia" Case Study] (http://www.nmcc.org.zm/files/GeocodingStructuresforIRSinZambia.pdf) 
+
+["Open-source satellite enumeration to map households: planning and targeting indoor residual spraying for malaria"] (http://www.malariajournal.com/content/14/1/345) 
+
 ##Map community building with Maptime
 
 [Maptime](http://maptime.io/about/) is an open learning environment for all levels and degrees of knowledge, offering intentional educational support for the beginner. Maptime is simultaneously flexible and structured, creating space for mapping tutorials, workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome!
@@ -128,18 +140,6 @@ Maps for all forever! --From the Maptime website
 ![Maptime logo](https://raw.githubusercontent.com/maptime/maptime.github.io/master/img/xmaptime-logo-web-header-rainbonly.png.pagespeed.ic.sUvy41gYSf.png)
 
 Anyone can start a chapter! See a list of current Maptime chapters [here](http://maptime.io/chapters/). We'd love for Peace Corps Volunteers and counterparts to experiment with starting a Maptime chapter at their site or in their nearest city. For more information about starting a chapter, email hello@maptime.io. And then let Courtney Clark know at cclark2@peacecorps.gov, because you're awesome and she'll want to brag about you. 
-
-##Malaria Resources - Geospatial Resources Specific to Malaria 
-
-[Open Source Malaria ] (http://opensourcemalaria.org/) 
-
-[Malaria Atlas Project] (http://www.map.ox.ac.uk/explorer/) - Malaria map and data explorer
-
-[OSM for Malaria Eradication in Botswana Case Study.](https://drive.google.com/file/d/0BxqYHzBUSr1NRzlKNk01ekdONE0/view?usp=sharing) By Theresa Govert and Mike Banfield, Peace Corps Botswana. February 2015. 
-
-["Geocoding Structures for Indoor Residual Spray Mapping in Zambia" Case Study] (http://www.nmcc.org.zm/files/GeocodingStructuresforIRSinZambia.pdf) 
-
-["Open-source satellite enumeration to map households: planning and targeting indoor residual spraying for malaria"] (http://www.malariajournal.com/content/14/1/345)
 
 
 ##GIS (Geographic Information System) and Mapping Tools Overviews
